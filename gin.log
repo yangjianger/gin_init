@@ -1,0 +1,7 @@
+[GIN] 2019/12/17 - 17:36:37 | 200 |      145.47µs |             ::1 | GET      /
+[GIN] 2019/12/17 - 17:49:24 | 200 |      217.47µs |             ::1 | GET      /
+[GIN] 2019/12/17 - 17:49:42 | 200 |      48.523µs |             ::1 | GET      /v1/lottery/getLotteryList
+[GIN] 2019/12/17 - 17:49:46 | 200 |      19.511µs |             ::1 | GET      /v1/lottery/getLotteryList
+[GIN] 2019/12/17 - 17:49:50 | 404 |         643ns |             ::1 | GET      /v1/lottery/getlotteryList
+[GIN] 2019/12/17 - 17:49:50 | 404 |         858ns |             ::1 | GET      /v1/lottery/getlotteryList
+[GIN] 2019/12/17 - 17:49:57 | 200 |      17.371µs |             ::1 | GET      /v1/lottery/getLotteryList
